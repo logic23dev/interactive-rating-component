@@ -3,8 +3,8 @@
 This is a solution to the [Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) challenge on Frontend Mentor.
 
 <h3 align='center'>
-<a href="">Live</a>
-| <a href="">Solution</a>
+<a href="https://logic23dev.github.io/interactive-rating-component/">Live</a>
+| <a href="https://www.frontendmentor.io/solutions/interactive-rating-component-D3k52f2j6b">Solution</a>
 | <a href="https://www.frontendmentor.io/profile/logic23dev">Profile</a>
 </h3>
 
